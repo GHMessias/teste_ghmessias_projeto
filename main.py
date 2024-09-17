@@ -4,3 +4,6 @@ def main():
 	'''
 	print('oi, essa é uma função teste')
 	return
+
+
+main()
