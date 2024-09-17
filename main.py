@@ -1,3 +1,7 @@
+def soma(x,y):
+	return x + y
+
+
 def main():
 	'''
 	função teste
